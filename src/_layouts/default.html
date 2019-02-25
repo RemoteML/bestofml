@@ -1,0 +1,29 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    {% if site.analytics-id %}
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};
+      ga('create', '{{ site.analytics-id }}', 'auto');
+      ga('set', 'transport', 'beacon');
+      ga('send', 'pageview');
+    </script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
+    {% endif %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    {% asset style.css %}
+    <script defer src="https://use.fontawesome.com/releases/v5.7.1/js/all.js"></script>
+  </head>
+  <body>
+    {% include _nav.html %}
+    {{ content }}
+    {% asset main.js %}
+    {% include _footer.html %}
+  </body>
+</html>

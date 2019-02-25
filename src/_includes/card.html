@@ -1,0 +1,24 @@
+{% assign category_name=include['data'][site.cards.group_by.name] %}
+{% include function-set_category_path.html name=category_name %}
+<div class="use-theme box">
+  <div class="content has-text-centered">
+    <p class="title is-4 thin"><a href="{{ include['data']['slug'] }}">{{include['data']['name']}}</a></p>
+  </div>
+  <div class="content info has-text-left">
+    <p class="is-size-7">
+      <span class="icon accent"><i class="{{ site.cards.group_by.fa-style }} fa-fw fa-{{ site.cards.group_by.fa-icon }}"></i></span> <a href="/{{ site.cards.group_by.caption }}/{{ category_path | strip }}">{{ include['data'][site.cards.group_by.name]  | truncate: 40 }}</a><br>
+      {% for item in site.cards.meta %}
+        {% if include['data'][item.name] %}
+          {% if item.name == "url" %}
+            <span class="icon accent"><i class="{{ item.fa-style }} fa-fw fa-{{ item.fa-icon }}"></i></span> <a href="{{ include['data'][item.name] }}">{{ include['data'][item.name] | replace: "http://", "" | replace: "https://", "" | replace: "www.", "" | replace_regex: "/$", "" | truncate: 40 }}</a><br>
+          {% else %}
+            <span class="icon accent"><i class="{{ item.fa-style }} fa-fw fa-{{ item.fa-icon }}"></i></span> {{ include['data'][item.name] | replace: "http://", "" | replace: "https://", "" | replace: "www.", ""  | truncate: 40 }}<br>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </p>
+  </div>
+  <div class="content is-size-7 has-text-centered">
+    {{ include['data']['description'] | markdownify }}
+  </div>
+</div>

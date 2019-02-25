@@ -1,0 +1,55 @@
+@import 'bulma/bulma';
+@import 'libs/mixins';
+
+html {
+  body {
+    @include font-smoothing(on);
+    .burger {
+      color: $grey-dark;
+    }
+    .navbar-item{
+      font-size: 1em;
+    }
+    .controls {
+      box-sizing: initial !important;
+    }
+    .box {
+      &.use-theme {
+        min-height: 350px;
+        max-height: 350px;
+        overflow: auto;
+        .info {
+          padding: 10px 0px;
+          border-bottom: 1px solid $grey-lighter;
+          border-top: 1px solid $grey-lighter;
+        }
+      }
+    }
+    #search-section {
+      display: none;
+    }
+    .search{
+      background-color: $grey-dark;
+      color: #fff;
+      input[type="text"] {
+        border: 0px;
+        border-bottom: 4px solid #fff;
+        color: #fff;
+        @include placeholder-color(#fff);
+        font-size: 3em;
+      }
+      .search-hide {
+        cursor: pointer !important;
+        pointer-events: auto !important;
+        height: 100% !important;
+      }
+      li {
+        font-size: 1.2em;
+        line-height: 2em;
+      }
+      a{
+        color: #aaa;
+      }
+    }
+  }
+}

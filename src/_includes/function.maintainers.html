@@ -1,0 +1,1 @@
+{% for user in site.maintainers %}{% if site.maintainers.last == user %}{% unless site.maintainers.size == 1%}{% if site.maintainers.size > 2 %},{% endif %} and {% endunless %}{% else %}{% unless site.maintainers.first == user %}, {% endunless %}{% endif %}<a class="has-text-weight-normal" href="https://github.com/{{ user }}">@{{ user }}</a>{% endfor %}

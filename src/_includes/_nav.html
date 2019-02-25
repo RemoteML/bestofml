@@ -1,0 +1,24 @@
+<nav id="navbar" class="navbar has-shadow">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/"><span class="icon">🏆</span>&nbsp;<h1 class="title is-5">{{ site.title }}</h1></a>
+      <a class="navbar-item is-hidden-desktop search-show"><span class="icon has-text-grey-darker"><i class="fas fa-lg fa-search"></i></span></a>
+      <div id="navbarBurger" class="navbar-burger burger" data-target="navMain">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div> <!-- /navbarbrand -->
+    <div class="navbar-menu" id="navMain">
+      <div class="navbar-start">
+		{% for category in site.data['categories'] %}
+          <a class="navbar-item" href="/{{ site.cards.group_by.caption }}/{{ category['path'] }}"> {{ category['name'] | capitalize }}</a>
+        {% endfor %}
+      </div>
+      <div class="navbar-end">
+        <a class="navbar-item is-hidden-mobile" href="https://twitter.com/remoteml/" target="_blank"><span class="icon has-text-grey-darker"><i class="fab fa-lg fa-twitter"></i></span></a>
+      </div>
+    </div>
+  </div>
+</nav>
+{% include search.html %}

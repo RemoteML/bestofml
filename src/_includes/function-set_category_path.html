@@ -1,0 +1,7 @@
+{% capture category_path %}
+  {% for category in site.data['categories'] %}
+    {% if category.name == include.name %}
+      {{ category.path }}
+    {% endif %}
+  {% endfor %}
+{% endcapture %}

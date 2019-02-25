@@ -1,0 +1,19 @@
+{% capture cards_count %}{{ site.data[site.cards.data] | size }}{% endcapture %}
+
+<section class="hero is-link">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <div class="content">
+        <h1 class="title is-4 thin">{{ site.description }}</h1>
+        <p><span class="has-text-weight-bold">{{cards_count}}</span> of the best resources in Machine Learning</p>
+        <p><a  target="_blank" class="button is-white is-rounded is-outlined" href="https://github.com/{{ site.github }}">
+          <span class="icon">
+            <i class="fab fa-github"></i>
+          </span>
+          <span class="has-text-weight-bold is-uppercase">Contribute</span>
+        </a></p>
+
+      </div>
+    </div>
+  </div>
+</section>

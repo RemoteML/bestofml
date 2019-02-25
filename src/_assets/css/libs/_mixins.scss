@@ -1,0 +1,27 @@
+@mixin font-smoothing($value: on) {
+    @if $value == on {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+    @else {
+        -webkit-font-smoothing: subpixel-antialiased;
+        -moz-osx-font-smoothing: auto;
+    }
+}
+@mixin placeholder-color($value) {
+  &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: $value;
+  }
+  &::-moz-placeholder { /* Firefox 19+ */
+    color: $value;
+  }
+  &:-ms-input-placeholder { /* IE 10+ */
+    color: $value;
+  }
+  &:-moz-placeholder { /* Firefox 18- */
+    color: $value;
+  }
+  &::placeholder { /* Most modern browsers support this now. */
+    color: $value;
+  }
+}

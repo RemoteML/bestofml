@@ -1,0 +1,9 @@
+*.sublime-workspace
+npm-debug.log
+
+.sass-cache/
+_site/
+node_modules/
+cypress/videos/
+cypress/screenshots/
+.DS_Store

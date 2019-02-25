@@ -1,0 +1,53 @@
+{
+  "name": "simple-jekyll-search",
+  "version": "1.7.2",
+  "description": "Simple Jekyll site search using javascript and json",
+  "main": "dest/simple-jekyll-search.js",
+  "scripts": {
+    "cypress": "cypress",
+    "lint": "standard",
+    "pretest": "npm run lint",
+    "prebuild": "npm run test",
+    "postbuild": "npm run copy-example-code",
+    "browserify": "browserify -p browser-pack-flat/plugin src/index.js | node scripts/stamp.js > dest/simple-jekyll-search.js",
+    "build": "npm run browserify && npm run uglify",
+    "dist": "npm run build && npm run copy-example-code",
+    "test": "m.test tests/**",
+    "copy-example-code": "cp dest/* example/js/",
+    "uglify": "uglifyjs --compress --mangle --ie8 --comments \"/^/*!/\" --output dest/simple-jekyll-search.min.js dest/simple-jekyll-search.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-fei/Simple-Jekyll-Search.git"
+  },
+  "author": "Christian Fei",
+  "license": "MIT",
+  "files": [
+    "dest",
+    "src"
+  ],
+  "bugs": {
+    "url": "https://github.com/christian-fei/Simple-Jekyll-Search/issues"
+  },
+  "homepage": "https://github.com/christian-fei/Simple-Jekyll-Search",
+  "dependencies": {
+    "fuzzysearch": "^1.0.3"
+  },
+  "optionalDependencies": {
+    "cypress": "^2.1.0"
+  },
+  "devDependencies": {
+    "browser-pack-flat": "^3.2.0",
+    "browserify": "^16.2.3",
+    "m.test": "0.0.57",
+    "standard": "^12.0.1",
+    "uglify-js": "^3.4.9"
+  },
+  "standard": {
+    "ignore": [
+      "cypress/**",
+      "example/**",
+      "dest/**"
+    ]
+  }
+}
