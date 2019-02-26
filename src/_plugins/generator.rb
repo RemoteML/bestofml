@@ -53,6 +53,7 @@ class CardGenerator < Jekyll::Generator
       'id' => page_name,
       'show' => comments
     }
+    page.data['pagetitle'] = card['name'] + " - Best of Machine Learning"
     page
   end
 
@@ -64,6 +65,7 @@ class CardGenerator < Jekyll::Generator
     page.data[category_field] = category['name']
     page.data[data] = category[data]
     page.data['layout'] = 'cards'
+    page.data['pagetitle'] = "Best Machine Learning " + category['name']
     page
   end
 end

@@ -1,8 +1,8 @@
 title: Best of Machine Learning
 email: support@remoteml.com
 description: >- 
-  The best resources to learn Machine Learning or get latest AI news.
-baseurl: "" # the subpath of your site, e.g. /blog
+  The best resources about Machine Learning & AI
+baseurl: ""
 url: "https://bestofml.com"
 analytics-id: UA-108818402-5
 github: RemoteML/bestofml
@@ -50,7 +50,6 @@ compress_html:
 assets:
   sources:
   - _assets/vendor
-  - 
   digest: true
   compression: true
   gzip: false

@@ -12,7 +12,7 @@
     <div class="navbar-menu" id="navMain">
       <div class="navbar-start">
 		{% for category in site.data['categories'] %}
-          <a class="navbar-item" href="/{{ site.cards.group_by.caption }}/{{ category['path'] }}"> {{ category['name'] | capitalize }}</a>
+          <a class="navbar-item" href="/{{ site.cards.group_by.caption }}/{{ category['path'] }}"> {{ category['name'] }}</a>
         {% endfor %}
       </div>
       <div class="navbar-end">

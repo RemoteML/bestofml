@@ -10,7 +10,7 @@
       {% for item in site.cards.meta %}
         {% if include['data'][item.name] %}
           {% if item.name == "url" %}
-            <span class="icon accent"><i class="{{ item.fa-style }} fa-fw fa-{{ item.fa-icon }}"></i></span> <a href="{{ include['data'][item.name] }}">{{ include['data'][item.name] | replace: "http://", "" | replace: "https://", "" | replace: "www.", "" | replace_regex: "/$", "" | truncate: 40 }}</a><br>
+            <span class="icon accent"><i class="{{ item.fa-style }} fa-fw fa-{{ item.fa-icon }}"></i></span> <a href="{{ include['data'][item.name] }}?ref=bestofml.com">{{ include['data'][item.name] | replace: "http://", "" | replace: "https://", "" | replace: "www.", "" | replace_regex: "/$", "" | truncate: 40 }}</a><br>
           {% else %}
             <span class="icon accent"><i class="{{ item.fa-style }} fa-fw fa-{{ item.fa-icon }}"></i></span> {{ include['data'][item.name] | replace: "http://", "" | replace: "https://", "" | replace: "www.", ""  | truncate: 40 }}<br>
           {% endif %}
