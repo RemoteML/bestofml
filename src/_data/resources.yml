@@ -70,3 +70,89 @@ Machine Learning Subreddit:
   tags: Reddit, Subreddit, news
   url: https://www.reddit.com/r/machinelearning
   description: "Subreddit based around Machine Learning."
+  
+Arxiv Stats:
+  category: Papers
+  tags: Academia, Papers
+  url: https://arxiv.org/list/stat.ML/recent
+  description: "The stats category of arXiv papers."
+  
+Arxiv Sanity Preserver:
+  category: Papers
+  tags: Academia, Papers, Tool
+  url: http://www.arxiv-sanity.com/
+  description: "Preserving sanity on arXiv, by using comments, upvotes and social virality filters."
+  
+Papers with Code:
+  category: Papers
+  tags: Code, Papers, Tool
+  url: https://paperswithcode.com/
+  description: "Papers categorized in subtopics, all with implementations and code added."
+  
+  
+Machine Learning by Andrew Ng:
+  category: Courses
+  tags: Coursera, Course, Paid
+  url: https://www.coursera.org/learn/machine-learning
+  description: "One of the most popular Machine Learning courses, taught by Andrew Ng."
+  
+Machine Learning by ColumbiaX:
+  category: Courses
+  tags: edX, Course, Columbia, Paid
+  url: https://www.edx.org/course/machine-learning
+  description: "Essentials of Machine Learning algorithm"
+  
+Machine Learning A-Z:
+  category: Courses
+  tags: Udemy, Course, Paid
+  url: https://www.udemy.com/machinelearning/
+  description: "Hands-on Python course on Udemy, taught by Kirill Eremenko"
+  
+Intro to Machine Learning:
+  category: Courses
+  tags: Udacity, Course, Free
+  url: https://udacity.com/course/intro-to-machine-learning--ud120
+  description: "Basic Machine Learning Course on Udacity for free"
+  
+Machine Learning for Trading:
+  category: Courses
+  tags: Udacity, Georgia, Course, Free
+  url: https://udacity.com/course/machine-learning-for-trading--ud501
+  description: "Machine Learning applied to trading"
+  
+Grokking Deep Learning:
+  category: Books
+  tags: Deep Learning
+  url: https://www.manning.com/books/grokking-deep-learning
+  description: "A practical approach to Deep Learning, by Andrew Trask"
+  
+Deep Learning Book:
+  category: Books
+  tags: Deep Learning
+  url: https://www.deeplearningbook.org/
+  description: "The classic. Deep Learning book by Ian Goodfellow and Yoshua Bengio and Aaron Courville"
+  
+Neural Networks and Deep Learning:
+  category: Books
+  tags: Deep Learning
+  url: http://neuralnetworksanddeeplearning.com/
+  description: "Neural Networks and Deep Learning is a free online book about Neural Networks"
+  
+Deep Learning with Python:
+  category: Books
+  tags: Deep Learning
+  url: https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/
+  description: "Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library."
+  
+Hands-On Machine Learning:
+  category: Books
+  tags: Machine Learning
+  url: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/
+  description: "Programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data."
+  
+  
+Deep Learning - A Practitioner's Approach:
+  category: Books
+  tags: Deep Learning
+  url: https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254/
+  description: "How can machine learning—especially deep neural networks—make a real difference in your organization?"
