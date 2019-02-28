@@ -14,7 +14,6 @@ before_script:
   - bower install
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproofer --assume_extension ./www
 deploy:
   provider: pages # https://docs.travis-ci.com/user/deployment/pages/
   skip-cleanup: true
