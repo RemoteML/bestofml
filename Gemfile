@@ -7,6 +7,7 @@ gem "rack", ">= 2.0.6"
 
 group :jekyll_plugins do
   gem "jekyll-assets", "~> 3.0.11"
+  gem 'jekyll-sitemap'
   gem "kramdown", "~> 1.17.0"
   gem "uglifier", "~> 4.1.12"
 end

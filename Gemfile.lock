@@ -63,6 +63,8 @@ GEM
       jekyll (~> 3.1)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-sitemap (1.2.0)
+      jekyll (~> 3.3)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
     json (2.1.0)
@@ -115,6 +117,7 @@ DEPENDENCIES
   html-proofer (~> 3.9.1)
   jekyll (~> 3.8.5)
   jekyll-assets (~> 3.0.11)
+  jekyll-sitemap
   json (~> 2.1.0)
   kramdown (~> 1.17.0)
   nokogiri (>= 1.8.5)
