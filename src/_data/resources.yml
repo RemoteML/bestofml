@@ -149,7 +149,7 @@ Hands-On Machine Learning:
   tags: Machine Learning
   url: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/
   description: "Programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data."
-  
+ 
   
 Deep Learning - A Practitioner's Approach:
   category: Books
@@ -163,8 +163,39 @@ Dynamically Typed Newsletter:
   url: https://dynamicallytyped.com/
   description: "A bi-weekly newsletter with thoughts and links on productized artificial intelligence, machine learning technology, and the tech/startup industry. Delivered to your inbox every second Sunday."
 
+Skynet Today:
+  category: News & Blogs
+  tags: Blog, News
+  url: https://www.skynettoday.com/
+  description: "A site dedicated to providing accessible and informed coverage of the latest AI news and trends with news digest, briefs about major events, and in-depth editorials."
+  
+The Gradient:
+  category: News & Blogs
+  tags: Blog, News
+  url: https://thegradient.pub/
+  description: "A digital magazine that aims to democratize research in AI & ML with accessible and technically informed coverage of the most important new papers and perspectives on recent developments & long-term trends."
+
+Distill:
+  category: News & Blogs
+  tags: Blog
+  url: https://distill.pub/
+  description: "An online Journal for preseting ML research in a a Clear, Dynamic and Vivid way."
+  
+Stanford AI Lab Blog:
+  category: News & Blogs
+  tags: Blog
+  url: https://ai.stanford.edu/blog/
+  description: "A place for SAIL students, faculty, and researchers to share their work with the general public."
+  
+Lil'Log:
+  category: News & Blogs
+  tags: Blog
+  url: https://lilianweng.github.io/lil-log/
+  description: "A blog summarizing multiple fields and topics in ML."
+
 Introduction to Machine Learning with Python- A Guide for Data Scientists:
   category: Books
   tags: Machine Learning 
   url: https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413
   description: "Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions"
+  
