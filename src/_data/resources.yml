@@ -149,7 +149,7 @@ Hands-On Machine Learning:
   tags: Machine Learning
   url: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/
   description: "Programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data."
-  
+ 
   
 Deep Learning - A Practitioner's Approach:
   category: Books
@@ -174,4 +174,22 @@ The Gradient:
   tags: Blog, News
   url: https://thegradient.pub/
   description: "A digital magazine that aims to democratize research in AI & ML with accessible and technically informed coverage of the most important new papers and perspectives on recent developments & long-term trends."
+
+Distill:
+  category: News & Blogs
+  tags: Blog
+  url: https://thegradient.pub/
+  description: "An online Journal for preseting ML research in a a Clear, Dynamic and Vivid way."
+  
+Stanford AI Lab Blog:
+  category: News & Blogs
+  tags: Blog
+  url: https://ai.stanford.edu/blog/
+  description: "A place for SAIL students, faculty, and researchers to share their work with the general public."
+  
+Lil'Log:
+  category: News & Blogs
+  tags: Blog
+  url: https://lilianweng.github.io/lil-log/
+  description: "A blog summarizing multiple fields and topics in ML."
 
