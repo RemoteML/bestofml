@@ -156,8 +156,6 @@ Deep Learning - A Practitioner's Approach:
   tags: Deep Learning
   url: https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254/
   description: "How can machine learning—especially deep neural networks—make a real difference in your organization?"
-<<<<<<< HEAD
-=======
 
 Dynamically Typed Newsletter:
   category: News & Blogs
@@ -201,4 +199,3 @@ Introduction to Machine Learning with Python- A Guide for Data Scientists:
   url: https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413
   description: "Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions"
   
->>>>>>> 0cf1d061c097ebc3cc556da9468166793013b934
