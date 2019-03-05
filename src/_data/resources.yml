@@ -162,7 +162,7 @@ Dynamically Typed Newsletter:
   tags: Machine Learning, Newsletter
   url: https://dynamicallytyped.com/
   description: "A bi-weekly newsletter with thoughts and links on productized artificial intelligence, machine learning technology, and the tech/startup industry. Delivered to your inbox every second Sunday."
-  
+
 Skynet Today:
   category: News & Blogs
   tags: Blog, News
@@ -193,3 +193,9 @@ Lil'Log:
   url: https://lilianweng.github.io/lil-log/
   description: "A blog summarizing multiple fields and topics in ML."
 
+Introduction to Machine Learning with Python- A Guide for Data Scientists:
+  category: Books
+  tags: Machine Learning 
+  url: https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413
+  description: "Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions"
+  
