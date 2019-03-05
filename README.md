@@ -2,7 +2,7 @@
 
 A collection of the best resources in Machine Learning.
 
-![Visit curated website](https://bestofml.com)
+[Visit curated website](https://bestofml.com)
 
 ## Categories
 
