@@ -13,7 +13,7 @@ AI Jobs:
 AngelList:
   category: Job Boards
   tags: Startups, Work
-  url: https://ai-jobs.net/
+  url: https://angel.co/
   description: "AngelList is a main resource when it comes to startup jobs, networking and fundraising worldwide."
 
 Towards Data Science:
@@ -256,3 +256,9 @@ NLP Progress:
   tags: Progress
   url: https://nlpprogress.com/
   description: "Current state of the art in Natural Language Processing."
+
+Introduction to Deep Learning:
+  category: Courses
+  tags: Coursera, Course, Paid
+  url: https://www.coursera.org/learn/intro-to-deep-learning
+  description: "The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural language understanding."
