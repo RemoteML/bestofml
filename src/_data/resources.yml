@@ -162,3 +162,10 @@ Dynamically Typed Newsletter:
   tags: Machine Learning, Newsletter
   url: https://dynamicallytyped.com/
   description: "A bi-weekly newsletter with thoughts and links on productized artificial intelligence, machine learning technology, and the tech/startup industry. Delivered to your inbox every second Sunday."
+  
+  Natural Language Processing is Fun!:
+  category: News & Blogs
+  tags: Machine Learning, Newsletter,nlp
+  url: https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
+  description: "How computers understand Human Language"
+
