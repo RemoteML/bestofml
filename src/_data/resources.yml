@@ -3,20 +3,19 @@ RemoteML:
   tags: Work, Remote, Community
   url: https://remoteml.com
   description: "RemoteML is a global community and job board when it comes to Remote Jobs in Machine Learning. With over 1,800 subscribers, it is one of the biggest job boards in this space."
-  
-  
+
 AI Jobs:
   category: Job Boards
   tags: Work
   url: https://ai-jobs.net/
   description: "On AI Jobs, there are listings for Machine Learning-related jobs on the whole world, as well as remote ones."
-  
+
 AngelList:
   category: Job Boards
   tags: Startups, Work
   url: https://ai-jobs.net/
   description: "AngelList is a main resource when it comes to startup jobs, networking and fundraising worldwide."
-  
+
 Towards Data Science:
   category: News & Blogs
   tags: News, Blog
@@ -28,25 +27,25 @@ AI Weekly:
   tags: Newsletter
   url: http://aiweekly.co/
   description: "A weekly newsletter about current media coverage of AI"
-  
+
 Deep Learning Weekly:
   category: News & Blogs
   tags: Newsletter
   url: https://www.deeplearningweekly.com/
   description: "A weekly newsletter about new findings, papers and explorations in Deep Learning"
-  
+
 The Algorithm:
   category: News & Blogs
   tags: Newsletter
   url: https://go.technologyreview.com/newsletters/the-algorithm/
   description: "MIT / Technology Review powered Newsletter about AI."
-  
+
 Import AI:
   category: News & Blogs
   tags: Blog, News
   url: https://jack-clark.net/
   description: "Jack Clark's (OpenAI) blog about AI."
-  
+
 Machine Learning Mastery:
   category: News & Blogs
   tags: Education, Blog
@@ -58,99 +57,98 @@ FastML:
   tags: Blog, Projects
   url: http://fastml.com/
   description: "Projects, Tips & Tricks about Data Science and Machine Learning."
-  
+
 Stats & Bots:
   category: News & Blogs
   tags: Blog
   url: https://blog.statsbot.co/
   description: "Data stories on machine learning and analytics"
-  
+
 Machine Learning Subreddit:
   category: News & Blogs
   tags: Reddit, Subreddit, news
   url: https://www.reddit.com/r/machinelearning
   description: "Subreddit based around Machine Learning."
-  
+
 Arxiv Stats:
   category: Papers
   tags: Academia, Papers
   url: https://arxiv.org/list/stat.ML/recent
   description: "The stats category of arXiv papers."
-  
+
 Arxiv Sanity Preserver:
   category: Papers
   tags: Academia, Papers, Tool
   url: http://www.arxiv-sanity.com/
   description: "Preserving sanity on arXiv, by using comments, upvotes and social virality filters."
-  
+
 Papers with Code:
   category: Papers
   tags: Code, Papers, Tool
   url: https://paperswithcode.com/
   description: "Papers categorized in subtopics, all with implementations and code added."
-  
-  
+
 Machine Learning by Andrew Ng:
   category: Courses
   tags: Coursera, Course, Paid
   url: https://www.coursera.org/learn/machine-learning
   description: "One of the most popular Machine Learning courses, taught by Andrew Ng."
-  
+
 Machine Learning by ColumbiaX:
   category: Courses
   tags: edX, Course, Columbia, Paid
   url: https://www.edx.org/course/machine-learning
   description: "Essentials of Machine Learning algorithm"
-  
+
 Machine Learning A-Z:
   category: Courses
   tags: Udemy, Course, Paid
   url: https://www.udemy.com/machinelearning/
   description: "Hands-on Python course on Udemy, taught by Kirill Eremenko"
-  
+
 Intro to Machine Learning:
   category: Courses
   tags: Udacity, Course, Free
   url: https://udacity.com/course/intro-to-machine-learning--ud120
   description: "Basic Machine Learning Course on Udacity for free"
-  
+
 Machine Learning for Trading:
   category: Courses
   tags: Udacity, Georgia, Course, Free
   url: https://udacity.com/course/machine-learning-for-trading--ud501
   description: "Machine Learning applied to trading"
-  
+
 Grokking Deep Learning:
   category: Books
   tags: Deep Learning
   url: https://www.manning.com/books/grokking-deep-learning
   description: "A practical approach to Deep Learning, by Andrew Trask"
-  
+
 Deep Learning Book:
   category: Books
   tags: Deep Learning
   url: https://www.deeplearningbook.org/
   description: "The classic. Deep Learning book by Ian Goodfellow and Yoshua Bengio and Aaron Courville"
-  
+
 Neural Networks and Deep Learning:
   category: Books
   tags: Deep Learning
   url: http://neuralnetworksanddeeplearning.com/
   description: "Neural Networks and Deep Learning is a free online book about Neural Networks"
-  
+
 Deep Learning with Python:
   category: Books
   tags: Deep Learning
   url: https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/
   description: "Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library."
-  
+
 Hands-On Machine Learning:
   category: Books
   tags: Machine Learning
   url: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/
   description: "Programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data."
- 
-  
+
+
 Deep Learning - A Practitioner's Approach:
   category: Books
   tags: Deep Learning
@@ -168,7 +166,7 @@ Skynet Today:
   tags: Blog, News
   url: https://www.skynettoday.com/
   description: "A site dedicated to providing accessible and informed coverage of the latest AI news and trends with news digest, briefs about major events, and in-depth editorials."
-  
+
 The Gradient:
   category: News & Blogs
   tags: Blog, News
@@ -180,13 +178,13 @@ Distill:
   tags: Blog
   url: https://distill.pub/
   description: "An online Journal for preseting ML research in a a Clear, Dynamic and Vivid way."
-  
+
 Stanford AI Lab Blog:
   category: News & Blogs
   tags: Blog
   url: https://ai.stanford.edu/blog/
   description: "A place for SAIL students, faculty, and researchers to share their work with the general public."
-  
+
 Lil'Log:
   category: News & Blogs
   tags: Blog
@@ -195,7 +193,42 @@ Lil'Log:
 
 Introduction to Machine Learning with Python- A Guide for Data Scientists:
   category: Books
-  tags: Machine Learning 
+  tags: Machine Learning
   url: https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413
   description: "Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions"
-  
+
+Oxford Deep NLP:
+  category: Courses
+  tags: Oxford, Course, Free
+  url: https://github.com/oxford-cs-deepnlp-2017/
+  description: "Lecture slides and course description for the Deep Natural Language Processing course offered in Hilary Term 2017 at the University of Oxford."
+
+Stanford UFLDL Tutorial:
+  category: Courses
+  tags: Stanford, Course, Free
+  url: http://deeplearning.stanford.edu/tutorial/
+  description: "This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning."
+
+Stanford CS231n:
+  category: Courses
+  tags: Stanford, Course, Free
+  url: http://cs231n.stanford.edu/
+  description: "CS231n: Convolutional Neural Networks for Visual Recognition"
+
+Stanford CS224d:
+  category: Courses
+  tags: Stanford, Course, Free
+  url: http://cs224d.stanford.edu/
+  description: "CS224d: Deep Learning for Natural Language Processing"
+
+Colah's blog:
+  category: News & Blogs
+  tags: Blog
+  url: http://colah.github.io/
+  description: "A blog taking on specific topic in ML."
+
+Fast.ai:
+  category: Courses
+  tags: Course, Free
+  url: https://www.fast.ai/
+  description: "Completely free and highly acclaimed Deep Learning courses."
