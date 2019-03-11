@@ -238,3 +238,9 @@ Introduction to Deep Learning:
   tags: Coursera, Course, Paid
   url: https://www.coursera.org/learn/intro-to-deep-learning
   description: "The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural language understanding."
+  
+ML Jobs Newsletter:
+  category: Job Boards
+  tags: Work, Startups
+  url: https://www.getrevue.co/profile/mljobs
+  description: "Sign up to receive this biweekly curated list of data science job openings at the best companies in the industry. Roles include data scientist, machine learning engineer, and research scientist positions."
