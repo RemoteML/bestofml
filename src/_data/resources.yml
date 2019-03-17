@@ -244,3 +244,17 @@ ML Jobs Newsletter:
   tags: Work, Startups
   url: https://www.getrevue.co/profile/mljobs
   description: "Sign up to receive this biweekly curated list of data science job openings at the best companies in the industry. Roles include data scientist, machine learning engineer, and research scientist positions."
+
+Machine Learning with TensorFlow on Google Cloud Platform Specialization:
+  category: Courses
+  tags: Course, Paid
+  url: https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?
+  description: "Learn ML with Google Cloud. Real-world experimentation with end-to-end ML."
+  
+Deep Learning Specialization:
+  category: Courses
+  tags: Course, Paid
+  url: https://www.coursera.org/specializations/deep-learning?
+  description: "Deep Learning Specialization. Master Deep Learning, and Break into AI"
+  
+ 
