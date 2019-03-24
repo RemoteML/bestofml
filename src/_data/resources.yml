@@ -238,7 +238,7 @@ Introduction to Deep Learning:
   tags: Coursera, Course, Paid
   url: https://www.coursera.org/learn/intro-to-deep-learning
   description: "The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural language understanding."
-  
+
 ML Jobs Newsletter:
   category: Job Boards
   tags: Work, Startups
@@ -250,11 +250,15 @@ Machine Learning with TensorFlow on Google Cloud Platform Specialization:
   tags: Course, Paid
   url: https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?
   description: "Learn ML with Google Cloud. Real-world experimentation with end-to-end ML."
-  
+
 Deep Learning Specialization:
   category: Courses
   tags: Course, Paid
   url: https://www.coursera.org/specializations/deep-learning?
   description: "Deep Learning Specialization. Master Deep Learning, and Break into AI"
-  
- 
+
+victorzhou.com:
+  category: News & Blogs
+  tags: Blog, News
+  url: https://victorzhou.com
+  description: "A beginner-friendly blog on various ML topics."
