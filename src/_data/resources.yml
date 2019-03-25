@@ -260,11 +260,11 @@ Deep Learning Specialization:
 Reinforcement Learning – An Introduction:
   category: Books
   tags: Reinforcement Learning
-  url: https://www.amazon.in/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_EAIaIQobChMIyr_mlaCa4QIVDA4rCh2zhwyrEAYYASABEgIzO_D_BwE_k_&gclid=EAIaIQobChMIyr_mlaCa4QIVDA4rCh2zhwyrEAYYASABEgIzO_D_BwE
+  url: https://www.amazon.in/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981
   description: "The significantly expanded and updated new edition of a widely used text on reinforcement learning, one of the most active research areas in artificial intelligence."
 
 MIT 6.S191: Introduction to Deep Learning:
   category: Courses
   tags: Course, Free
-  url: https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+  url: https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
   description: "MIT's introductory course on deep learning methods with applications to machine translation, image recognition, game playing, and more."
