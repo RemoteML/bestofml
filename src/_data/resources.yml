@@ -256,5 +256,122 @@ Deep Learning Specialization:
   tags: Course, Paid
   url: https://www.coursera.org/specializations/deep-learning?
   description: "Deep Learning Specialization. Master Deep Learning, and Break into AI"
-  
- 
+
+Machine Learning Crash Course:
+  category: Courses
+  tags: Course, Free, TensorFlow
+  url: https://developers.google.com/machine-learning/crash-course/
+  description: "Google's fast-paced, practical introduction to machine learning"
+  languages: EN-US, PT-BR
+
+MIT Deep Learning:
+  category: Courses
+  tags: MIT, Course, Free
+  url: https://deeplearning.mit.edu/
+  description: "This page is a collection of MIT courses and lectures on deep learning, deep reinforcement learning, autonomous vehicles, and artificial intelligence taught by Lex Fridman"
+  languages: EN-US
+
+A Course in Machine Learning:
+  category: Books
+  tags: Machine Learning
+  url: http://ciml.info/
+  description: "CIML is a set of introductory materials that covers most major aspects of modern machine learning (supervised learning, unsupervised learning, large margin methods, probabilistic modeling, learning theory, etc.). It's focus is on broad applications with a rigorous backbone. A subset can be used for an undergraduate course; a graduate course could probably cover the entire material and then some."
+  languages: EN-US
+
+VIP cheatsheets for Stanford's CS 229 Machine Learning:
+  category: Books
+  tags: Stanford, Machine Learning, Cheatsheets
+  url: https://github.com/afshinea/stanford-cs-229-machine-learning
+  description: VIP cheatsheets for Stanford's CS 229 Machine Learning
+  languages: EN-US, PT-BR
+
+Machine Learning:
+  category: Courses
+  tags: Amazon, Course, Free
+  url: https://aws.amazon.com/pt/training/learning-paths/machine-learning/
+  description: "Dive deep into the same machine learning (ML) curriculum used to train Amazon’s developers and data scientists."
+  languages: EN-US, PT-BR
+
+Machine Learning Data Scientist:
+  category: Courses
+  tags: Amazon, Course, Free
+  url: https://aws.amazon.com/training/learning-paths/machine-learning/data-scientist/
+  description: "This path is designed for learners skilled in math, statistics, and analysis who want become machine learning (ML) subject matter experts within their organization."
+  languages: EN-US, PT-BR
+
+Microsoft Professional Program for Artificial Intelligence:
+  category: Courses
+  tags: Microsoft, Course, Free
+  url: https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
+  description: "The AI track takes aspiring AI engineers from a basic introduction of AI to mastery of the skills needed to build deep learning models for AI solutions that exhibit human-like behavior and intelligence."
+  languages: EN-US, PT-BR
+
+The Intel AI Developer Program:
+  category: Courses
+  tags: Intel, Course, Free
+  url: https://software.intel.com/en-us/ai
+  description: "Our learning hub, the Intel® AI Academy, offers a wealth of training and resources to developers, data scientists, students, and professors. Take self-paced courses, attend live workshops, and watch webinars on topics from general AI to deep learning and inference."
+  languages: EN-US, PT-BR
+
+CS 188 | Introduction to Artificial Intelligence:
+  category: Courses
+  tags: Berkeley, Course, Free
+  url: https://inst.eecs.berkeley.edu/~cs188/fa18/
+  description: "This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm."
+  languages: EN-US
+
+Deep Learning Tips and Tricks cheatsheet:
+  category: Books
+  tags: Stanford, Deep Learning, Cheatsheets
+  url: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
+  description: "Deep Learning Tips and Tricks cheatsheet"
+  languages: EN-US
+
+MIT 6.S099 Artificial General Intelligence:
+  category: Courses
+  tags: MIT, Course, Free
+  url: https://agi.mit.edu/
+  description: "This course is a series of lectures and conversations that explore the nature of human and machine intelligence from a variety perspectives."
+  languages: EN-US
+
+The Hundred-Page Machine Learning Book:
+  category: Books
+  tags: Machine Learning, Deep Learning
+  url: http://themlbook.com/
+  description: "All you need to know about Machine Learning in a hundred pages"
+  languages: EN-US
+
+Learning from data:
+  category: Courses
+  tags: California, Course, Free
+  url: http://work.caltech.edu/telecourse.html
+  description: "Free, introductory Machine Learning online course (MOOC) - Taught by Caltech Professor Yaser Abu-Mostafa - Prerequisites: Basic probability, matrices, and calculus"
+  languages: EN-US
+
+Deep Learning Papers Reading Roadmap:
+  category: Papers
+  tags: Academia, Papers, Tool
+  url: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+  description: "If you are a newcomer to the Deep Learning area, the first question you may have is 'Which paper should I start reading from?' Here is a reading roadmap of Deep Learning papers!"
+  languages: EN-US
+
+Awesome Machine Learning:
+  category: Courses, Books
+  tags: Course, Book, Blog
+  url: https://github.com/josephmisiti/awesome-machine-learning
+  description: "A curated list of awesome machine learning frameworks, libraries and software (by language)"
+  languages: EN-US
+
+Machine Learning - 2014-2015:
+  category: Courses
+  tags: Oxford, Course, Free
+  url: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+  description: "Machine Learning: 2014-2015"
+  languages: EN-US
+
+TensorFlow From Basics to Mastery:
+  category: Courses
+  tags: Course, Paid, TensorFlow
+  url: https://www.deeplearning.ai/tensorflow-specialization/
+  description: "If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you best practices for using TensorFlow, a popular open-source framework for machine learning."
+  languages: EN-US
