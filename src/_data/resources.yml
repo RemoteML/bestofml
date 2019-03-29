@@ -293,13 +293,13 @@ VIP cheatsheets for Stanford's CS 229 Machine Learning:
   url: https://github.com/afshinea/stanford-cs-229-machine-learning
   description: "VIP cheatsheets for Stanford's CS 229 Machine Learning"
 
-Machine Learning:
+Amazon Machine Learning:
   category: Courses
   tags: Amazon, Course, Free
   url: https://aws.amazon.com/pt/training/learning-paths/machine-learning/
   description: "Dive deep into the same machine learning (ML) curriculum used to train Amazon’s developers and data scientists."
 
-Machine Learning Data Scientist:
+Amazon Machine Learning Data Scientist:
   category: Courses
   tags: Amazon, Course, Free
   url: https://aws.amazon.com/training/learning-paths/machine-learning/data-scientist/
@@ -341,7 +341,7 @@ The Hundred-Page Machine Learning Book:
   url: http://themlbook.com/
   description: "All you need to know about Machine Learning in a hundred pages"
 
-Learning from data:
+Learning from Data:
   category: Courses
   tags: California, Course, Free
   url: http://work.caltech.edu/telecourse.html
@@ -352,12 +352,6 @@ Deep Learning Papers Reading Roadmap:
   tags: Academia, Papers, Tool
   url: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
   description: "If you are a newcomer to the Deep Learning area, the first question you may have is 'Which paper should I start reading from?' Here is a reading roadmap of Deep Learning papers!"
-
-Awesome Machine Learning:
-  category: Courses, Books
-  tags: Course, Book, Blog
-  url: https://github.com/josephmisiti/awesome-machine-learning
-  description: "A curated list of awesome machine learning frameworks, libraries and software (by language)"
 
 Machine Learning - 2014-2015:
   category: Courses
@@ -389,8 +383,14 @@ ML Jobs List:
   url: https://mljobslist.com
   description: "ML Jobs List is a machine learning job board which gets jobs from all over the internet, it has machine learning jobs from stackoverflow, github and other sites, Including itself."
   
-Dataset list:
+Dataset List:
   category: News & Blogs
   tags: Dataset, List
   url: https://www.datasetlist.com/
   description: "A list of the biggest datasets for ML."
+  
+Awesome Machine Learning:
+  category: Courses
+  tags: Course, Book, Blog
+  url: https://github.com/josephmisiti/awesome-machine-learning
+  description: "A curated list of awesome machine learning frameworks, libraries and software (by language)"
