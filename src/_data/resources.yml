@@ -233,6 +233,18 @@ Fast.ai:
   url: https://www.fast.ai/
   description: "Completely free and highly acclaimed Deep Learning courses."
 
+NLP News:
+  category: News & Blogs
+  tags: Newsletter
+  url: http://ruder.io/nlp-news/
+  description: "Highly followed Natural Language Processing News"
+
+Ruder's blog:
+  category: News & Blogs
+  tags: Blog
+  url: http://ruder.io/
+  description: "Great blog about Natural Language Processing."
+
 Introduction to Deep Learning:
   category: Courses
   tags: Coursera, Course, Paid
