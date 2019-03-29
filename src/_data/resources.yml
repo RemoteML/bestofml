@@ -245,18 +245,6 @@ Ruder's blog:
   url: http://ruder.io/
   description: "Great blog about Natural Language Processing."
 
-Object Classification Progress:
-  category: State of the Art
-  tags: Progress
-  url: http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
-  description: "Current state of the art in objects classification."
-
-NLP Progress:
-  category: State of the Art
-  tags: Progress
-  url: https://nlpprogress.com/
-  description: "Current state of the art in Natural Language Processing."
-
 Introduction to Deep Learning:
   category: Courses
   tags: Coursera, Course, Paid
