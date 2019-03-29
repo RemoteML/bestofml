@@ -10,9 +10,6 @@
 <loc>https://bestofml.com/category/courses.html</loc>
 </url>
 <url>
-<loc>https://bestofml.com/category/courses--books.html</loc>
-</url>
-<url>
 <loc>https://bestofml.com/category/job-boards.html</loc>
 </url>
 <url>
@@ -20,6 +17,9 @@
 </url>
 <url>
 <loc>https://bestofml.com/category/papers.html</loc>
+</url>
+<url>
+<loc>https://bestofml.com/resources/awesome-machine-learning.html</loc>
 </url>
 <url>
 <loc>https://bestofml.com/resources/dataset-list.html</loc>
@@ -38,9 +38,6 @@
 </url>
 <url>
 <loc>https://bestofml.com/resources/machine-learning---2014-2015.html</loc>
-</url>
-<url>
-<loc>https://bestofml.com/resources/awesome-machine-learning.html</loc>
 </url>
 <url>
 <loc>https://bestofml.com/resources/deep-learning-papers-reading-roadmap.html</loc>
@@ -67,10 +64,10 @@
 <loc>https://bestofml.com/resources/microsoft-professional-program-for-artificial-intelligence.html</loc>
 </url>
 <url>
-<loc>https://bestofml.com/resources/machine-learning-data-scientist.html</loc>
+<loc>https://bestofml.com/resources/amazon-machine-learning-data-scientist.html</loc>
 </url>
 <url>
-<loc>https://bestofml.com/resources/machine-learning.html</loc>
+<loc>https://bestofml.com/resources/amazon-machine-learning.html</loc>
 </url>
 <url>
 <loc>https://bestofml.com/resources/vip-cheatsheets-for-stanford-s-cs-229-machine-learning.html</loc>
