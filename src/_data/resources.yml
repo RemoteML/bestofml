@@ -268,3 +268,15 @@ MIT 6.S191 - Introduction to Deep Learning:
   tags: Course, Free
   url: https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
   description: "MIT's introductory course on deep learning methods with applications to machine translation, image recognition, game playing, and more."
+ 
+ML Jobs List:
+  category: Job Boards
+  tags: Work
+  url: https://mljobslist.com
+  description: "ML Jobs List is a machine learning job board which gets jobs from all over the internet, it has machine learning jobs from stackoverflow, github and other sites, Including itself."
+  
+Dataset list:
+  category: News & Blogs
+  tags: Dataset, List
+  url: https://www.datasetlist.com/
+  description: "A list of the biggest datasets for ML."
