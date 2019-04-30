@@ -250,7 +250,7 @@ Introduction to Deep Learning:
   tags: Coursera, Course, Paid
   url: https://www.coursera.org/learn/intro-to-deep-learning
   description: "The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural language understanding."
-  
+
 ML Jobs Newsletter:
   category: Job Boards
   tags: Work, Startups
@@ -262,7 +262,7 @@ Machine Learning with TensorFlow on Google Cloud Platform Specialization:
   tags: Course, Paid
   url: https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?
   description: "Learn ML with Google Cloud. Real-world experimentation with end-to-end ML."
-  
+
 Deep Learning Specialization:
   category: Courses
   tags: Course, Paid
@@ -364,7 +364,7 @@ TensorFlow From Basics to Mastery:
   tags: Course, Paid, TensorFlow
   url: https://www.deeplearning.ai/tensorflow-specialization/
   description: "If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you best practices for using TensorFlow, a popular open-source framework for machine learning."
-  
+
 Reinforcement Learning – An Introduction:
   category: Books
   tags: Reinforcement Learning
@@ -376,21 +376,27 @@ MIT 6.S191 - Introduction to Deep Learning:
   tags: Course, Free
   url: https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
   description: "MIT's introductory course on deep learning methods with applications to machine translation, image recognition, game playing, and more."
- 
+
 ML Jobs List:
   category: Job Boards
   tags: Work
   url: https://mljobslist.com
   description: "ML Jobs List is a machine learning job board which gets jobs from all over the internet, it has machine learning jobs from stackoverflow, github and other sites, Including itself."
-  
+
 Dataset List:
   category: News & Blogs
   tags: Dataset, List
   url: https://www.datasetlist.com/
   description: "A list of the biggest datasets for ML."
-  
+
 Awesome Machine Learning:
   category: Courses
   tags: Course, Book, Blog
   url: https://github.com/josephmisiti/awesome-machine-learning
   description: "A curated list of awesome machine learning frameworks, libraries and software (by language)"
+
+victorzhou.com:
+  category: News & Blogs
+  tags: Blog, News
+  url: https://victorzhou.com/tag/machine-learning/
+  description: "A beginner-friendly blog on various ML topics."
