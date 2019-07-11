@@ -400,3 +400,9 @@ victorzhou.com:
   tags: Blog, News
   url: https://victorzhou.com/tag/machine-learning/
   description: "A beginner-friendly blog on various ML topics."
+  
+BibTeX Citations for Python Packages:
+  category: Papers
+  tags: Academia, Papers, Tool
+  url: https://github.com/leonoverweel/bibtex-python-package-citations
+  description: "Collection of official citations for machine learning Python packages, to make it easier to cite things like PyTorch and Tensorflow when writing research papers."
