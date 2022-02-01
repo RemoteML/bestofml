@@ -406,3 +406,9 @@ BibTeX Citations for Python Packages:
   tags: Academia, Papers, Tool
   url: https://github.com/leonoverweel/bibtex-python-package-citations
   description: "Collection of official citations for machine learning Python packages, to make it easier to cite things like PyTorch and Tensorflow when writing research papers."
+
+all AI news:
+  category: News & Blogs
+  tags: News, Blogs, Podcasts, Videos
+  url: https://allainews.com/
+  description: "The AI/ML/Big Data news aggregator platform"
